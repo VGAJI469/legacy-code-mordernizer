@@ -1,4 +1,3 @@
-# legacy-code-mordernizer
 # NoesisLegacy — Legacy Code Modernization Engine
 
 > An AI-powered developer tool that ingests legacy COBOL & Java repositories and generates clean, documented Python equivalents — without hallucinating.
