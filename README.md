@@ -6,7 +6,7 @@
 
 ## What It Does
 
-NoesisForge takes legacy COBOL and Java codebases and converts them into modern Python using a context-optimized LLM pipeline. It strips dead code, builds a dependency graph, compresses the context by ~60%, and runs hallucination checks on every output.
+NoeLegacy takes legacy COBOL and Java codebases and converts them into modern Python using a context-optimized LLM pipeline. It strips dead code, builds a dependency graph, compresses the context by ~60%, and runs hallucination checks on every output.
 
 ---
 
